@@ -35,6 +35,8 @@ To run the application, execute the following command in your terminal VSCODE:
 
 ```
 python src/main.py
+
+python tests/test_main.py
 ```
 
 Make sure to have an Excel file ready to be read by the application. The application will prompt you for the file path.
